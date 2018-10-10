@@ -14,7 +14,7 @@
 
 # Блог
 
-В текущий момент здесь можно почитать мои размышления на темы:
+На текущий момент здесь можно почитать мои размышления на темы:
 
 - [Жизнь](https://github.com/finelit/blog/tree/master/life)
 - [Искусство](https://github.com/finelit/blog/tree/master/arts)
