@@ -16,5 +16,5 @@
 
 В текущий момент здесь можно почитать мои размышления на темы:
 
-- [Жизнь]()
-- [Искусство]()
+- [Жизнь](https://github.com/finelit/blog/tree/master/life)
+- [Искусство](https://github.com/finelit/blog/tree/master/arts)
