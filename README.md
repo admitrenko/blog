@@ -1,3 +1,11 @@
+# Блог
+
+На текущий момент здесь можно почитать мои размышления на темы:
+
+- [Жизнь](https://github.com/finelit/blog/tree/master/life)
+- [Искусство](https://github.com/finelit/blog/tree/master/arts)
+- [Вин Чун](https://github.com/finelit/blog/tree/master/iwco)
+
 # Автор
 
 Несколько фактов обо мне:  
@@ -8,14 +16,6 @@
 5. Мы танцуем аргентинское танго (и с любовью вспоминаем [Ксюшу Зобову](https://vk.com/kseniatango)).
 6. Я много лет изучаю [Вин Чун](http://www.wing-chun.ru).
 7. Еще больше лет увлекаюсь писательством.
-8. И с сегодняшнего дня веду личный блог.
+8. И с 30 сентября 2018 года веду личный блог.
 
-**Восемь** пунктов &mdash; нешуточное дело!
-
-# Блог
-
-На текущий момент здесь можно почитать мои размышления на темы:
-
-- [Жизнь](https://github.com/finelit/blog/tree/master/life)
-- [Искусство](https://github.com/finelit/blog/tree/master/arts)
-- [Вин Чун](https://github.com/finelit/blog/tree/master/iwco)
+`v.1.0.2` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)
