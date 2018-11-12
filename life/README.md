@@ -8,3 +8,4 @@
 #### Медитация
 
 - [Индикатор тревожности](https://github.com/finelit/blog/blob/master/life/meditation/anxiety.md)
+- [Умение абстрагироваться](https://github.com/finelit/blog/blob/master/life/meditation/abstract.md)
