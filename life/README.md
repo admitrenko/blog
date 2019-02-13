@@ -1,5 +1,9 @@
 ## Поговорим о жизни
 
+#### Аспирантура
+
+- [Мысли о поступлении на PhD в ETH Zurich](https://github.com/finelit/blog/blob/master/life/phd.md)
+
 #### Личная эффективность
 
 - [Концепция рационального фланёра](https://github.com/finelit/blog/blob/master/life/flaneur.md)
