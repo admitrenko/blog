@@ -2,7 +2,7 @@
 
 #### Аспирантура
 
-- [Мысли о поступлении на PhD в ETH Zurich](https://github.com/finelit/blog/blob/master/life/phd.md)
+- [Мысли о поступлении на PhD в ETH Zürich](https://github.com/finelit/blog/blob/master/life/phd.md)
 
 #### Личная эффективность
 

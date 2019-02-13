@@ -1,4 +1,4 @@
-## Мысли о поступлении на PhD в ETH Zurich
+## Мысли о поступлении на PhD в ETH Zürich
 
 Приехав в Цюрих на PhD, я в полной мере осознал, что попал сюда случайно.
 
@@ -19,4 +19,4 @@
 
 Иными словами, без везения тут не обойтись. Такие дела.
 
-`v.1.0.1` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)
+`v.1.0.2` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)
