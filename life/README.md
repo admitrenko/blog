@@ -2,8 +2,8 @@
 
 #### Аспирантура
 
-- [Мысли о поступлении на PhD в ETH Zürich](https://github.com/finelit/blog/blob/master/life/phd.md)
-- [Уровень ETH по сравнению с другими вузами](https://github.com/finelit/blog/blob/master/life/ethz-level.md)
+- [Мысли о поступлении на PhD в ETH Zürich](https://github.com/finelit/blog/blob/master/life/phd-ethz/phd.md)
+- [Уровень ETH по сравнению с другими вузами](https://github.com/finelit/blog/blob/master/life/phd-ethz/ethz-level.md)
 
 #### Личная эффективность
 
