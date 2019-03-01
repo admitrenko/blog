@@ -1,5 +1,8 @@
 ## Поговорим о жизни
 
+#### Всё остальное
+- [Впечатления о Google](https://github.com/finelit/blog/blob/master/life/google-tour.md)
+
 #### Аспирантура
 
 - [Мысли о поступлении на PhD в ETH Zürich](https://github.com/finelit/blog/blob/master/life/phd-ethz/phd.md)
