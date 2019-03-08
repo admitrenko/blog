@@ -7,6 +7,7 @@
 
 - [Мысли о поступлении на PhD в ETH Zürich](https://github.com/finelit/blog/blob/master/life/phd-ethz/phd.md)
 - [Уровень ETH по сравнению с другими вузами](https://github.com/finelit/blog/blob/master/life/phd-ethz/ethz-level.md)
+- [Немного мыслей перед обедом](https://github.com/finelit/blog/blob/master/life/lunch-thoughts.md)
 
 #### Личная эффективность
 
