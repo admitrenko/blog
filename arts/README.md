@@ -7,4 +7,4 @@
 
 ### Ф.М. Достоевский. &laquo;Записки из мёртвого дома&raquo;
 
-- [Единственный друг](https://github.com/finelit/blog/blob/master/arts/dead_house.md)
+- [Единственный друг](https://github.com/finelit/blog/blob/master/arts/dead-house.md)
