@@ -2,10 +2,9 @@
 
 На текущий момент здесь можно почитать мои размышления на темы:
 
-- [Жизнь](https://github.com/finelit/blog/tree/master/life)
-- [Тест](/docs/test.md)
-- [Искусство](https://github.com/finelit/blog/tree/master/arts)
-- [Вин Чун](https://github.com/finelit/blog/tree/master/iwco)
+- [Жизнь](/docs/life/README.md)
+- [Искусство](/docs/arts/README.md)
+- [Вин Чун](/docs/iwco/README.md)
 
 # Автор
 
@@ -19,4 +18,4 @@
 7. Ещё больше лет увлекаюсь писательством.
 8. И с 30 сентября 2018 года веду личный блог.
 
-`v.1.0.6` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)
+`v.1.0.8` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog)

@@ -7,4 +7,4 @@
 
 Ф.М. Достоевский. &laquo;Записки из мёртвого дома&raquo;
 
-`v.1.0.1` &copy; [Andrei Dmitrenko](https://github.com/finelit/blog)
+`v.1.0.2` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog)
