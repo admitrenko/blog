@@ -18,4 +18,4 @@
 7. Ещё больше лет увлекаюсь писательством.
 8. И с 30 сентября 2018 года веду личный блог.
 
-`v.1.0.8` &copy;[Andrei Dmitrenko](https://finelit.github.io/blog)
+`v.1.0.8`&copy; [Andrei Dmitrenko](https://finelit.github.io/blog)
