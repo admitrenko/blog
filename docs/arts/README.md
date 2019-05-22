@@ -2,9 +2,9 @@
 
 ### Дж. Уильямс. &laquo;Стоунер&raquo;
 
-- [Эдит Стоунер](/docs/arts/edith_stoner.md)
-- [Подражание учителю](/docs/arts/imitating.md)
+- [Эдит Стоунер](edith_stoner.md)
+- [Подражание учителю](imitating.md)
 
 ### Ф.М. Достоевский. &laquo;Записки из мёртвого дома&raquo;
 
-- [Единственный друг](/docs/arts/dead-house.md)
+- [Единственный друг](dead-house.md)
