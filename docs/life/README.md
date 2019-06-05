@@ -1,7 +1,9 @@
 ## Поговорим о жизни
 
 #### Всё остальное
+- [Париж](paris.md)
 - [Впечатления о Google](google-tour.md)
+
 
 #### Аспирантура
 
@@ -18,3 +20,4 @@
 
 - [Индикатор тревожности](meditation/anxiety.md)
 - [Умение абстрагироваться](meditation/abstract.md)
+- [Мои коллеги о медитации](meditation/opinions.md)
