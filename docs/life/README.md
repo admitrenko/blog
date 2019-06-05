@@ -4,7 +4,6 @@
 - [Париж](paris.md)
 - [Впечатления о Google](google-tour.md)
 
-
 #### Аспирантура
 
 - [Мысли о поступлении на PhD в ETH Zürich](phd-ethz/phd.md)
