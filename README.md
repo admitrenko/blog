@@ -6,7 +6,8 @@
 - [Искусство](/docs/arts/README.md)
 - [Вин Чун](/docs/iwco/README.md)
 
-Из последнего:  
+Из последнего:
+- _15.11.19_ &mdash; [О серьёзном отношении к делу](/docs/iwco/being_serious.md) 
 - _18.09.19_ &mdash; [Квалификационный экзамен](/docs/life/phd-ethz/exam.md)
 
 # Автор
