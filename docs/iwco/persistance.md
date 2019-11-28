@@ -16,4 +16,4 @@
 
 Звучит не так уж сложно, но не дайте себе обмануться.
 
-`v.1.0.2` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog)
+`v.1.0.2` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)

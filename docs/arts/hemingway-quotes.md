@@ -28,4 +28,4 @@
 
 >Это и есть нравственность: если после противно. Нет, это, должно быть, безнравственность. Смелое утверждение. Сколько чепухи по ночам лезет мне в голову.  
 
-`v.1.0.2` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog)
+`v.1.0.2` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)

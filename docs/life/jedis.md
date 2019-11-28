@@ -20,4 +20,4 @@
 
 _1 июля 2018 г._
 
-`v.1.0.5` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog)
+`v.1.0.5` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)

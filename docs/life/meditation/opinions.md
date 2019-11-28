@@ -13,4 +13,4 @@
 ----
 <sup>1</sup> &mdash; отличная книга Келли МакГонигал о том, что такое сила воли, как она работает и как её укрепить.
 
-`v.1.0.1` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog)
+`v.1.0.1` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)

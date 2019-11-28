@@ -15,4 +15,4 @@
 
 _15 ноября 2019_
 
-`v.1.0.2` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog)
+`v.1.0.2` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)

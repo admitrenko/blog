@@ -19,4 +19,4 @@
 
 Иными словами, без везения тут не обойтись. Такие дела.
 
-`v.1.0.3` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog)
+`v.1.0.3` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)

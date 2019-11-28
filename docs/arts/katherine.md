@@ -12,4 +12,4 @@
 
 P.S. Я очень рад, что, спустя много лет изучения английского, стал по-немногу различать красоту этого языка в художественных текстах.
 
-`v.1.0.2` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog)
+`v.1.0.2` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)

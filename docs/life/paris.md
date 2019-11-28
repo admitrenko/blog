@@ -18,4 +18,4 @@
 
 Париж, ты как всегда прекрасен. Сколько ещё незабываемых впечатлений ты хранишь в себе?
 
-`v.1.0.1` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog)
+`v.1.0.1` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)

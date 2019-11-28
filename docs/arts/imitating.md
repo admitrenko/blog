@@ -19,4 +19,4 @@
 выберите себе пример для подражания и подражайте.
 Делая это осознанно, вы сможете прогрессировать быстрее без побочных эффектов.
 
-`v.1.0.3` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog)
+`v.1.0.3` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)

@@ -8,4 +8,4 @@
 
 Но как же это может быть, что любовь принимает такие отвратительно _неправильные_ формы?
 
-`v.1.0.3` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog)
+`v.1.0.3` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)

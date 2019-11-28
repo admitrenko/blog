@@ -7,7 +7,7 @@
 - [Вин Чун](/docs/iwco/README.md)
 
 Из последнего:
-- _15.11.19_ &mdash; [О серьёзном отношении к делу](/docs/iwco/being_serious.md) 
+- _15.11.19_ &mdash; [О серьёзном отношении к делу](/docs/iwco/being_serious.md)
 - _18.09.19_ &mdash; [Квалификационный экзамен](/docs/life/phd-ethz/exam.md)
 
 # Автор
@@ -22,4 +22,4 @@
 7. Ещё больше лет увлекаюсь писательством.
 8. И с 30 сентября 2018 года веду личный блог.
 
-`v.1.0.9` &copy; [Andrei Dmitrenko](https://finelit.github.io/blog)
+`v.1.0.9` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)
