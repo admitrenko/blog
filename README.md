@@ -7,8 +7,8 @@
 - [Вин Чун](/docs/iwco/README.md)
 
 Из последнего:
+- _18.12.19_ &mdash; [Три цитаты](/docs/arts/chimera.md)
 - _9.12.19_ &mdash; [Протестующая молодёжь](/docs/life/protests.md)
-- _28.11.19_ &mdash; [Предательство](/docs/life/betrayal.md)
 - _15.11.19_ &mdash; [О серьёзном отношении к делу](/docs/iwco/being_serious.md)
 
 # Автор
