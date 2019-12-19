@@ -7,9 +7,9 @@
 - [Вин Чун](/docs/iwco/README.md)
 
 Из последнего:
+- _19.12.19_ &mdash; [Судьба или теория вероятности](/docs/arts/destiny.md)
+- _19.12.19_ &mdash; [Простота и изысканность языка](/docs/arts/language.md)
 - _18.12.19_ &mdash; [Три цитаты](/docs/arts/chimera.md)
-- _9.12.19_ &mdash; [Протестующая молодёжь](/docs/life/protests.md)
-- _15.11.19_ &mdash; [О серьёзном отношении к делу](/docs/iwco/being_serious.md)
 
 # Автор
 
