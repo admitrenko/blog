@@ -13,7 +13,8 @@
 Ряд прекрасных цитат и интересных мыслей в других заметках:
 - [О русских песнях и о жизни](russians.md)
 - [Про шлюх](huren.md)
+- [Жизнь &mdash; это чудо](miracle.md)
 
 _13 января 2020_
 
-`v.1.0.1` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)
+`v.1.0.2` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)
