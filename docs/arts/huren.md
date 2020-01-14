@@ -15,7 +15,7 @@ Rolande, die Gouvernante, brachte Ravic eine Flasche Brandy und ein Glas. &raquo
 >
 >&raquo;Mich brauchen Sie nicht zu untersuchen, Doktor&laquo;, sagte Leonie, eine rothaarige Gascognerin.   
 >&raquo;Warum nicht?&laquo;  
- >&raquo;Keine Kunden, die ganze Woche.&laquo;  
+>&raquo;Keine Kunden, die ganze Woche.&laquo;  
 >&raquo;Was sagt die Madame dazu?&laquo;  
 >&raquo;Nichts. Ich habe eine Menge Champagner gemacht.  
 >Sieben Flaschen jeden Abend. Drei Geschäftsleute aus Toulouse. Verheiratet. Wollten alle drei, aber genierten sich voreinander. Jeder hatte Angst, wenn er mit mir ginge, würden die andern zu Hause darüber reden. Soffen deshalb; jeder dachte, er würde allein übrigbleiben.&laquo; Leonie lachte und kratzte sich faul. &raquo;Der, der übrigblieb, konnte dann nicht mehr aufstehen.&laquo;  
@@ -29,7 +29,8 @@ Rolande, die Gouvernante, brachte Ravic eine Flasche Brandy und ein Glas. &raquo
 >Marthe war blaß, schmal und blond. Sie hatte das Gesicht eines Botticelli-Engels, aber sie sprach den Jargon der Rue Blondel.
 >
 >&raquo;Mir fehlt nichts, Doktor.&laquo;  
- >&raquo;Das ist gut. Wir werden sehen.&laquo; &raquo;Aber mir fehlt wirklich nichts.&laquo;  
+ >&raquo;Das ist gut. Wir werden sehen.&laquo;  
+> &raquo;Aber mir fehlt wirklich nichts.&laquo;  
 > &raquo;Um so besser.&laquo;
 >
 > Rolande stand plötzlich im Zimmer. Sie sah Marthe an.   
@@ -62,8 +63,8 @@ Rolande, die Gouvernante, brachte Ravic eine Flasche Brandy und ein Glas. &raquo
 >&raquo;Wir nehmen dich wieder. Du warst gutes Geschäft. Die Kunden mögen dich.&laquo;    
 >&raquo;Wirklich?&laquo; Marthe sah auf. &raquo;Natürlich. Und nun komm.&laquo;  
 >
- >Marthe ging mit Rolande hinaus. Ravic sah ihr nach. Sie würde nicht wiederkommen. Madame war viel zu vorsichtig. Ihre nächste Etappe waren vielleicht noch die billigen Bordelle an der Rue Blondel. Dann die Straße. Dann Koks, Hospital, Blumen oder Zigarettenhandel. Oder, wenn sie Glück hatte, ein Louis, der sie prügelte, ausnutzte und sie später ’rausschmiß.
+>Marthe ging mit Rolande hinaus. Ravic sah ihr nach. Sie würde nicht wiederkommen. Madame war viel zu vorsichtig. Ihre nächste Etappe waren vielleicht noch die billigen Bordelle an der Rue Blondel. Dann die Straße. Dann Koks, Hospital, Blumen oder Zigarettenhandel. Oder, wenn sie Glück hatte, ein Louis, der sie prügelte, ausnutzte und sie später ’rausschmiß.
 
 _14 января 2020_
 
-`v.1.0.2` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)
+`v.1.0.3` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)
