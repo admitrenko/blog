@@ -29,7 +29,7 @@ Rolande, die Gouvernante, brachte Ravic eine Flasche Brandy und ein Glas. &raquo
 >Marthe war blaß, schmal und blond. Sie hatte das Gesicht eines Botticelli-Engels, aber sie sprach den Jargon der Rue Blondel.
 >
 >&raquo;Mir fehlt nichts, Doktor.&laquo;  
- >&raquo;Das ist gut. Wir werden sehen.&laquo;  
+>&raquo;Das ist gut. Wir werden sehen.&laquo;  
 > &raquo;Aber mir fehlt wirklich nichts.&laquo;  
 > &raquo;Um so besser.&laquo;
 >
@@ -67,4 +67,4 @@ Rolande, die Gouvernante, brachte Ravic eine Flasche Brandy und ein Glas. &raquo
 
 _14 января 2020_
 
-`v.1.0.3` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)
+`v.1.0.4` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)
