@@ -7,9 +7,9 @@
 - [Вин Чун](/docs/iwco/README.md)
 
 Из последнего:
+- _22.01.20_ &mdash; [Красота и смысл](/docs/arts/beauty_and_sense.md)
 - _13.01.20_ &mdash; [Arc de Triomphe. Впечатления и заметки](/docs/arts/arc_de_triomphe.md)
 - _19.12.19_ &mdash; [Судьба или теория вероятности](/docs/arts/destiny.md)
-- _18.12.19_ &mdash; [Три цитаты](/docs/arts/chimera.md)
 
 # Автор
 

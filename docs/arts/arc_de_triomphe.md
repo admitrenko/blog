@@ -16,8 +16,8 @@
 - [Жизнь &mdash; это чудо](miracle.md)
 - [Два взгляда на любовь](liebe.md)
 - [Декорации меняются, суть остаётся прежней](decorations.md)
-
+- [Красота и смысл](beauty_and_sense.md)
 
 _13 января 2020_
 
-`v.1.0.2` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)
+`v.1.0.3` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)
