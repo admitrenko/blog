@@ -5,7 +5,8 @@
 - [Впечатления о Google](google-tour.md)
 - [Предательство](betrayal.md)
 - [Протестующая молодёжь](protests.md)
-- [Политические изменения в РФ](political_changes)
+- [Политические изменения в РФ](political_changes.md)
+- [Элитная коммуналка](luxury_communal.md)
 
 #### Аспирантура
 
