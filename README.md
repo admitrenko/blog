@@ -7,7 +7,7 @@
 - [Вин Чун](/docs/iwco/README.md)
 
 Из последнего:
-- _13.05.20_ &mdash; [Попрошайки 21-го века](/docs/life/beggars.md)
+- _13.05.20_ &mdash; [Нищенствующие 21-го века](/docs/life/beggars.md)
 - _15.02.20_ &mdash; [Элитная коммуналка](/docs/life/luxury_communal.md)  
 - _22.01.20_ &mdash; [Красота и смысл](/docs/arts/beauty_and_sense.md)
 
