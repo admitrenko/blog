@@ -33,6 +33,6 @@
 
 Поэтому я решил открыть свою школу IWCO в Цюрихе. Будем отстаивать честь нашей школы и боевого искусства Вин Чун.
 
-_14 октября 2018 г._
+_14 октября 2018_
 
-`v.1.0.3` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)
+`v.1.0.4` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)

@@ -9,6 +9,6 @@
 
 Это чудовищно.
 
-_28 ноября 2019 г_
+_28 ноября 2019_
 
-`v.1.0.1` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)
+`v.1.0.2` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)

@@ -18,6 +18,6 @@
 
 Я искренне советую &laquo;Джедайские техники&raquo; всем своим друзьям.
 
-_1 июля 2018 г._
+_1 июля 2018_
 
-`v.1.0.5` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)
+`v.1.0.6` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)
