@@ -1,11 +1,12 @@
-## Hochschulbildung / Высшее образование
+## Hochschulbildung
 
 Wir haben mit den Trainings wieder angefangen. Ich meine, dass wir die im Sportzentrum wieder machen. (Während der Quarantäne haben wir auch trainiert, aber nur durch Videokonferenzen...)
 
 Heute abend nach der Training fuhren wir mit meinem Freund mit dem Bus nach Hause. Wir haben über die Hochschulbildung geredet. Und er hat mich gefragt, wie viel das in Russland kostet. Wie viel habe ich eigentlich gezahlt?
 
 Er war erstaunt zu wissen, dass ich nichts dafür gezahlt. Ich habe es kostenlos bekommen. Und ich begriff plötzlich, dass in vielen Ländern es ganz anders ist. Ich habe eine sehr gute Ausbildung in Russland kostenlos bekommen, und ich muss es nie für selsbsverständlich halten. In machen Ländern geben die Leute viel Geld aus, und dann arbeiten eifrig um das Geld zurückzuholen.
-___
+
+## Высшее образование
 
 Мы начали снова тренироваться в зале, в спортивном центре. (Во время карантина тоже тренировались, но по видео...)
 
@@ -15,4 +16,4 @@ ___
 
 _18 мая 2020 г_
 
-`v.1.0.1` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)
+`v.1.0.2` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)
