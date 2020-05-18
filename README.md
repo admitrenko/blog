@@ -5,11 +5,12 @@
 - [Жизнь](/docs/life/README.md)
 - [Искусство](/docs/arts/README.md)
 - [Вин Чун](/docs/iwco/README.md)
+- [Deutsches Tagebuch / Немецкий журнал](/docs/tagebuch/README.md)
 
 Из последнего:
+- _18.05.20_ &mdash; [Hochschulbildung / Высшее образование](/docs/tagebuch/Hochschulbildung.md)
 - _13.05.20_ &mdash; [Нищенствующие 21-го века](/docs/life/beggars.md)
-- _15.02.20_ &mdash; [Элитная коммуналка](/docs/life/luxury_communal.md)  
-- _22.01.20_ &mdash; [Красота и смысл](/docs/arts/beauty_and_sense.md)
+- _15.02.20_ &mdash; [Элитная коммуналка](/docs/life/luxury_communal.md)
 
 ## Автор
 
@@ -36,4 +37,4 @@
 Ещё у меня есть [Instagram](https://www.instagram.com/dmitrav), но умного или полезного там мало.
 
 
-`v.1.1.1` &copy; Andrei Dmitrenko
+`v.1.1.2` &copy; Andrei Dmitrenko
