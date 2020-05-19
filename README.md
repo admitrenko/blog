@@ -8,7 +8,7 @@
 - [Deutsches Tagebuch / Немецкий журнал](/docs/tagebuch/README.md)
 
 Из последнего:
-- _18.05.20_ &mdash; [Hochschulbildung / Высшее образование](/docs/tagebuch/Hochschulbildung.md)
+- _19.05.20_ &mdash; [Unterricht / Преподавание](/docs/tagebuch/Unterricht.md)
 - _13.05.20_ &mdash; [Нищенствующие 21-го века](/docs/life/beggars.md)
 - _15.02.20_ &mdash; [Элитная коммуналка](/docs/life/luxury_communal.md)
 

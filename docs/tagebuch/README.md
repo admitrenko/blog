@@ -13,4 +13,5 @@ __Wenn Sie Deutsch gut kennen,__ helfen Sie mir bitte mit Korrekturen und die Re
 Было бы круто писать здесь что-нибудь целый год. Маленькие истории из моей жизни. Пару предложений каждый (второй / третий...) день. Правда, я не хочу себе ничего обещать, потому что часто у меня просто не хватает времени. Даже на те вещи, которые мне очень нравятся и которыми я бы хотел заняться. Но я все равно хочу начать.
 
 ### Mai 2020
-- [Hochschulbildung](Hochschulbildung.md)
+- [Hochschulbildung / Высшее образование](Hochschulbildung.md)
+- [Unterricht / Преподавание](Unterricht.md)
