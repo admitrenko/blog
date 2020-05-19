@@ -14,7 +14,6 @@
 
 ## Автор
 
-Несколько фактов обо мне:  
 - [Аспирант и научный ассистент](http://www.imsb.ethz.ch/research/zamboni/people/admitrenko.html) в ETH Zürich.
 - Больше всего в науке меня привлекают искусственный интеллект и синтетическая биология.
 - У меня есть любимая жена.
@@ -37,4 +36,4 @@
 Ещё у меня есть [Instagram](https://www.instagram.com/dmitrav), но умного или полезного там мало.
 
 
-`v.1.1.2` &copy; Andrei Dmitrenko
+`v.1.1.3` &copy; Andrei Dmitrenko
