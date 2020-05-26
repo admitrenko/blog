@@ -8,7 +8,7 @@
 - [Deutsches Tagebuch / Немецкий журнал](/docs/tagebuch/README.md)
 
 Из последнего:
-- _26.05.20_ [Скотт Янг и суперобучение](docs/life/efficiency/scott_young.md)
+- _26.05.20_ &mdash; [Скотт Янг и суперобучение](docs/life/efficiency/scott_young.md)
 - _19.05.20_ &mdash; [Unterricht / Преподавание](/docs/tagebuch/Unterricht.md)
 - _13.05.20_ &mdash; [Нищенствующие 21-го века](/docs/life/beggars.md)
 
