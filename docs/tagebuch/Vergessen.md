@@ -14,6 +14,6 @@ Manchmal ist ein angenehmes Gefühl, eine süße Erinnerung... sonst ist ein Art
 
 Иногда это приятное чувство, приятное воспоминание... но иногда это вызывает какую-то тоску. В такие моменты мне кажется особенно опасным погружаться в воспоминания. В них можно утонуть.
 
-_26 мая 2020_
+_27 мая 2020_
 
-`v.1.0.1` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)
+`v.1.0.2` &copy; [Andrei Dmitrenko](https://admitrenko.github.io/blog)
