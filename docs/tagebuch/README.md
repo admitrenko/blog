@@ -15,3 +15,4 @@ __Wenn Sie Deutsch gut kennen,__ helfen Sie mir bitte mit Korrekturen und die Re
 ### Mai 2020
 - [Hochschulbildung / Высшее образование](Hochschulbildung.md)
 - [Unterricht / Преподавание](Unterricht.md)
+- [Vergessen / Способность забывать](Vergessen.md)
