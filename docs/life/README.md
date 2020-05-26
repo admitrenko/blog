@@ -20,6 +20,7 @@
 
 - [Концепция рационального фланёра](efficiency/flaneur.md)
 - [Книга &laquo;Джедайские техники&raquo;](efficiency/jedis.md)
+- [Скотт Янг и суперобучение](efficiency/scott_young.md)
 
 #### Медитация
 
