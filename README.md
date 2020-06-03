@@ -8,9 +8,9 @@
 - [Deutsches Tagebuch / Немецкий журнал](/docs/tagebuch/README.md)
 
 Из последнего:
+- _30.05.20_ &mdash; [Träume / Мечты](/docs/tagebuch/Traeume.md)
 - _27.05.20_ &mdash; [Vergessen / Способность забывать](/docs/tagebuch/Vergessen.md)
 - _26.05.20_ &mdash; [Скотт Янг и суперобучение](docs/life/efficiency/scott_young.md)
-- _13.05.20_ &mdash; [Нищенствующие 21-го века](/docs/life/beggars.md)
 
 ## Автор
 
